@@ -1,5 +1,12 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
+import "@/public/css/nucleo-icons.css"
+import "@/public/css/nucleo-svg.css"
+import "@/public/css/perfect-scrollbar.css"
+import "@/public/css/soft-ui-dashboard-tailwind.css"
+import "@/public/css/soft-ui-dashboard-tailwind.min.css"
+import "@/public/css/tooltips.css"
+
 
 const inter = Inter({ subsets: ["latin"] });
 
